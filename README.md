@@ -27,3 +27,6 @@
 - to solve this loss function, we can compute the loss of theta1, theta3, and theta2 seperately 
 - use stochastic gradient descent and hill-climbing
 <img src="formula6.png">
+
+---
+Contact <a href="http://chaoqiyang.com">Chaoqi Yang</a> at ycqsjtu@gmail.com, Shanghai Jiao Tong University for more information!
