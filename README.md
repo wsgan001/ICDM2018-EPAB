@@ -6,4 +6,9 @@
 
 ---
 ### Brief Model
-
+<img src="formula1.png">
+<img src="formula2.png">
+<img src="formula3.png">
+<img src="formula4.png">
+<img src="formula5.png">
+<img src="formula6.png">
