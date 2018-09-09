@@ -29,4 +29,5 @@
 <img src="formula6.png">
 
 ---
+<strong>Edited on Sep. 10th, 2018</strong><br>
 Contact <a href="http://chaoqiyang.com">Chaoqi Yang</a> at ycqsjtu@gmail.com, Shanghai Jiao Tong University for more information!
