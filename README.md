@@ -6,6 +6,7 @@
 
 ---
 ### Brief Model
+The early pattern of each cascade is represent as a vector:
 <img src="formula1.png">
 <img src="formula2.png">
 <img src="formula3.png">
