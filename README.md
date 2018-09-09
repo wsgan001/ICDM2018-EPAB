@@ -13,7 +13,9 @@
 - Attractiveness(h2): how many people tend to click and repost this tweet.
 - Potentiality(h3): how many people will be exposed to this tweet.
 <img src="formula2.png"><br>
-#### optimize the loss function between ground truth and predicted value,<br> get alpha, beta, gamma for each pattern, and h1, h2, h3 for each cascade.
+- optimize the loss function between ground truth and predicted value
+- get alpha, beta, gamma for each pattern
+- and get h1, h2, h3 for each cascade.
 <img src="formula3.png">
 <img src="formula4.png">
 <img src="formula5.png">
