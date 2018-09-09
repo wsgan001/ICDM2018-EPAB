@@ -19,5 +19,7 @@
 <img src="formula3.png"><br>
 #### (3). two-layer Bayesian network to model observable feature X, hidden variable H, and final state Y.
 <img src="formula4.png">
-<img src="formula5.png">
+<img src="formula5.png"><br>
+
+#### (4). Solve the loss function, get the model.
 <img src="formula6.png">
