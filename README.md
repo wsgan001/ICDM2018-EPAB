@@ -18,6 +18,8 @@
 - and get h1, h2, h3 for each cascade.
 <img src="formula3.png"><br>
 #### (3). two-layer Bayesian network to model observable feature X, hidden variable H, and final state Y.
+- refer to the paper for detailed deduction
+- bayesian rule
 <img src="formula4.png">
 <img src="formula5.png">
 
