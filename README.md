@@ -16,7 +16,8 @@
 - optimize the loss function between ground truth and predicted value
 - get alpha, beta, gamma for each pattern
 - and get h1, h2, h3 for each cascade.
-<img src="formula3.png">
+<img src="formula3.png"><br>
+#### (3). two-layer Bayesian network to model observable feature X, hidden variable H, and final state Y.
 <img src="formula4.png">
 <img src="formula5.png">
 <img src="formula6.png">
