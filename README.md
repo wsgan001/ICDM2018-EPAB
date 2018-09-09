@@ -6,10 +6,13 @@
 ## Brief Model
 #### (1). The early pattern of each cascade is represent as a vector:<br>
 <img src="formula1.png"><br>
+#### cluster the early pattern
+<img src="pattern.png"><br>
 #### (2). We introduce three hidden variable to capture describe the state of each cascade.<br>
 - Influence: how many people have been influenced by this tweet.
 - Attractiveness: how many people tend to click and repost this tweet.
 - Potentiality: how many people will be exposed to this tweet.
+
 <br>
 <img src="formula2.png">
 <img src="formula3.png">
