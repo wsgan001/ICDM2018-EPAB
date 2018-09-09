@@ -9,12 +9,11 @@
 #### cluster the early pattern
 <img src="pattern.png"><br>
 #### (2). We introduce three hidden variable to capture describe the state of each cascade.<br>
-- Influence: how many people have been influenced by this tweet.
-- Attractiveness: how many people tend to click and repost this tweet.
-- Potentiality: how many people will be exposed to this tweet.
-
-<br>
+- Influence(h1): how many people have been influenced by this tweet.
+- Attractiveness(h2): how many people tend to click and repost this tweet.
+- Potentiality(h3): how many people will be exposed to this tweet.
 <img src="formula2.png">
+#### optimize the loss function between ground truth and predicted value, get alpha, beta, gamma for each pattern, and h1, h2, h3 for each cascade.
 <img src="formula3.png">
 <img src="formula4.png">
 <img src="formula5.png">
