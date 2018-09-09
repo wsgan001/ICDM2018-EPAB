@@ -19,7 +19,9 @@
 <img src="formula3.png"><br>
 #### (3). two-layer Bayesian network to model observable feature X, hidden variable H, and final state Y.
 <img src="formula4.png">
-<img src="formula5.png"><br>
+<img src="formula5.png">
 
 #### (4). Solve the loss function, get the model.
+- to solve this loss function, we can compute the loss of theta1, theta3, and theta2 seperately 
+- use stochastic gradient descent and hill-climbing
 <img src="formula6.png">
