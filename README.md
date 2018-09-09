@@ -5,8 +5,8 @@
 <img src="ICDM_cover.png">
 
 ---
-### Brief Model
-The early pattern of each cascade is represent as a vector:<br>
+## Brief Model
+####The early pattern of each cascade is represent as a vector:<br>
 <img src="formula1.png">
 <img src="formula2.png">
 <img src="formula3.png">
